@@ -8,6 +8,7 @@ List of starting and completed exercises for any beginners getting into html, cs
 1. text formatting and lines with tags `em`, `hr`, `br`, `strong`
 1. image tag `img` with attributes `height`, `width`, `title`, `alt` with relative/absolute url
 1. hyperlink tag `a` with attributes `href`, `name` with relative/absolute hyperlinks
+1. list tag `ul`,`ol` and `li` with ordered/unordered and nested list
 
 ##general resources
 
