@@ -32,6 +32,7 @@ List of starting and completed exercises for any beginners getting into html, cs
 1. **border radius**
 1. **text shadow**
 1. **box shadow**
+1. **text selection**
 
 ##general resources
 
