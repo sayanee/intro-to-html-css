@@ -1,0 +1,11 @@
+img {
+  border-width: 3px;
+  border-style: solid;
+  border-color: green;
+
+  /* shorthand border */
+  /* border:  border-width border-style border-color; */
+  /* try border-top, border-right, border-bottom, border-left */
+
+  /*border: 4px dashed red;*/
+}
