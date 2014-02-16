@@ -1,0 +1,19 @@
+#box:hover {
+  background-color:#E4E635;
+  -webkit-box-shadow:0px 0px 30px #000;
+
+  -webkit-transform:translate(50px, 50px);
+  -ms-transform:translate(50px, 50px);
+  -moz-transform:translate(50px, 50px);
+  -o-transform:translate(50px, 50px);
+}
+
+#box {
+  /*
+  -webkit-transition-property: background-color;
+  -webkit-transition-duration:2s;
+  -webkit-transition-timing-function: linear;
+  -webkit-transition-deplay:3s;
+  */
+  -webkit-transition: all 2s linear;
+}

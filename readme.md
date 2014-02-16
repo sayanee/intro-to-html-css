@@ -34,7 +34,8 @@ List of starting and completed exercises for any beginners getting into html, cs
 1. **box shadow** with single or multiple shadows to vary the color, depth and position
 1. **text selection** to change the text color and/or background when selecting text
 1. **gradients** for linear gradient with stops and radial gradient
-1. **tranform** for translate, scale, rotate, skew
+1. **transform** for translate, scale, rotate, skew
+1. **transition**
 
 ##general resources
 
@@ -50,6 +51,7 @@ List of starting and completed exercises for any beginners getting into html, cs
 - paragraph: [Alice in Wonderland](http://www.gutenberg.org/ebooks/11)
 - audio mp3: [Annual New England Xylophone Symposium](http://ccmixter.org/files/DoKashiteru/19848)
 - fonts: [Raleway](https://www.theleagueofmoveabletype.com/raleway) and [Orbitron](https://www.theleagueofmoveabletype.com/orbitron)
+- background graph paper: [Subtle Patterns Graphy](http://subtlepatterns.com/graphy/) was used to see the changes in element positions after transition/transform, etc
 
 ##license
 
