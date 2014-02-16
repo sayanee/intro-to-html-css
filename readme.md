@@ -27,6 +27,8 @@ List of starting and completed exercises for any beginners getting into html, cs
 1. **video**
 1. **web font** using [Google web fonts](https://www.google.com/fonts)
 1. **embed fonts** using simple css syntax
+1. **embed fonts** using more font formats to support different browsers
+1. **vendor prefixes** for IE, Opera, Chrome, Safari
 
 ##general resources
 
