@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>13 - CSS form</title>
+</head>
+<body>
+
+<form action="form.html">
+
+  <label>First name:</label>
+  <input type="text" name="firstname" placeholder="name" value="Jenny"><br>
+
+  <label>Last name:</label>
+  <input type="text" name="lastname"><br>
+
+  <label>Password:</label>
+  <input type="password" name="pwd"><br>
+
+  <label>Bio:</label>
+  <textarea name="bio"></textarea><br>
+
+  <label>Gender</label>
+  <input type="radio" name="sex" value="male"> Male<br>
+  <input type="radio" name="sex" value="female"> Female<br><br>
+
+  <label>Fav Movie</label>
+  <select>
+    <option>Uncharted</option>
+    <option>Resident Evil</option>
+    <option>Tomb Raider</option>
+    <option>Call Of Duty</option>
+  </select>
+
+  <fieldset id="hobbies" class="">
+    <legend>Hobbies</legend>
+    <input type="checkbox" name="hobby" value="Swimming"> Swimming<br>
+    <input type="checkbox" name="hobby" value="Photography" >Photography<br>
+    <input type="checkbox" name="hobby" value="Painting">Painting<br>
+  </fieldset>
+
+  <br>
+  <input type="submit" value="Submit!">
+
+</form>
+
+<h1>Resources</h1>
+<ul>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Styling_HTML_forms">styling css forms</a></li>
+</ul>
+
+</body>
+</html>

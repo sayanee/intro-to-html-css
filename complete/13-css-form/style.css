@@ -1,0 +1,31 @@
+input {
+  color: #781351;
+  background-color: #fee3ad;
+  border: 1px solid black;
+}
+
+textarea {
+  background-color: #993067;
+  height: 40px;
+  width: 300px;
+  font-family: Arial, "MS Trebuchet", sans-serif;
+  color: white;
+}
+
+textarea:focus, input:focus {
+  border: 5px solid green;
+}
+
+input[type=submit] {
+  background-color: red;
+}
+
+input[type=text] {
+  background-color: green;
+}
+
+select {
+  width: 120px;
+  border: 3px solid red;
+  background-color: orange;
+}
