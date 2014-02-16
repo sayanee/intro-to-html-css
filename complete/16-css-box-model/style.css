@@ -1,0 +1,52 @@
+.box{
+
+  /* the box appears */
+  background-color: #DDD;
+  width:300px;
+  height:300px;
+
+  /* box with border */
+  border: 10px solid #999;
+
+  /* box with margin */
+  margin: 20px;
+
+  /*box with padding */
+  padding: 20px;
+
+  /* float */
+  float:left;
+
+  /* Total Width: Width + 2*Padding + 2*Border + 2*Margin */
+  /* total width: 300 + 40 + 40 + 40 = 420 */
+
+}
+
+.explore{
+
+  /* the box appears */
+  background-color: #DDD;
+  width:300px;
+  height:300px;
+
+  /* box with border */
+  border-bottom: 10px solid #999;
+
+  /* box with margin: 2/3/4 numbers */
+  margin: 20px;
+
+  /*box with padding: 2/3/4 numbers */
+  padding: 20px;
+
+  /* a new line */
+  clear:both;
+
+  /* centralise a div */
+  margin: 20px auto;
+
+  /* no float */
+  float:none;
+
+  /* Total Width: Width + 2*Padding + 2*Border + 2*Margin */
+  /* total width: 300 + 40 + 40 + 40 = 420 */
+}

@@ -18,6 +18,8 @@ List of starting and completed exercises for any beginners getting into html, cs
 1. **css border** with properties `border` (shorthand), `border-width`, `border-style`, `border-color`, `border-left`, `border-right`, etc
 1. **css form** by styling `textarea:focus`, `input[type=text]`, etc
 1. **css selectors** such as `* {}`, `E {}`, `E F {}`, `E > F {}`
+1. **css for id & class**
+1. **css box model**
 
 ##general resources
 
