@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'raleway';
+    src: url('raleway.eot');
+    src: url('raleway.eot?#iefix') format('embedded-opentype'),
+         url('raleway.woff') format('woff'),
+         url('raleway.ttf') format('truetype'),
+         url('raleway.svg#raleway') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+p {
+  font-family: 'raleway', Helvetica, sans-serif;
+  font-size: 2em;
+}
