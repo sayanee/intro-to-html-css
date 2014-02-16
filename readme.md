@@ -25,6 +25,8 @@ List of starting and completed exercises for any beginners getting into html, cs
 1. **semantic tags** such as `header`, `footer`, `article`
 1. **audio**
 1. **video**
+1. **web font** using [Google web fonts](https://www.google.com/fonts)
+1. **embed fonts** using simple css syntax
 
 ##general resources
 
@@ -39,3 +41,4 @@ List of starting and completed exercises for any beginners getting into html, cs
 - paragraph: [Here's to the Crazy Ones](http://en.wikipedia.org/wiki/Think_Different#Text)
 - paragraph: [Alice in Wonderland](http://www.gutenberg.org/ebooks/11)
 - audio mp3: [Annual New England Xylophone Symposium](http://ccmixter.org/files/DoKashiteru/19848)
+- fonts: [Raleway](https://www.theleagueofmoveabletype.com/raleway) and [Orbitron](https://www.theleagueofmoveabletype.com/orbitron)
