@@ -48,3 +48,7 @@ List of starting and completed exercises for any beginners getting into html, cs
 - paragraph: [Alice in Wonderland](http://www.gutenberg.org/ebooks/11)
 - audio mp3: [Annual New England Xylophone Symposium](http://ccmixter.org/files/DoKashiteru/19848)
 - fonts: [Raleway](https://www.theleagueofmoveabletype.com/raleway) and [Orbitron](https://www.theleagueofmoveabletype.com/orbitron)
+
+##license
+
+[Public domain dedication](http://creativecommons.org/publicdomain/zero/1.0/) - You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
