@@ -29,10 +29,12 @@ List of starting and completed exercises for any beginners getting into html, cs
 1. **embed fonts** using simple css syntax
 1. **embed fonts** using more font formats to support different browsers
 1. **vendor prefixes** for IE, Opera, Chrome, Safari
-1. **border radius**
-1. **text shadow**
-1. **box shadow**
-1. **text selection**
+1. **border radius** to vary the amount, position of the curvature
+1. **text shadow** with single or multiple shadows to vary the color, depth and position
+1. **box shadow** with single or multiple shadows to vary the color, depth and position
+1. **text selection** to change the text color and/or background when selecting text
+1. **gradients** for linear gradient with stops and radial gradient
+1. **tranform** for translate, scale, rotate, skew
 
 ##general resources
 

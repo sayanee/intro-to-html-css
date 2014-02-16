@@ -1,0 +1,39 @@
+#box1 {
+  -webkit-transform:translate(50px, 50px);
+  -ms-transform:translate(50px, 50px);
+  -moz-transform:translate(50px, 50px);
+  -o-transform:translate(50px, 50px);
+  transform:translate(50px, 50px);
+}
+
+#box2 {
+  -webkit-transform:scale(1.5, 1.5);
+  -ms-transform:scale(1.5, 1.5);
+  -moz-transform:scale(1.5, 1.5);
+  -o-transform:scale(1.5, 1.5);
+  transform:scale(1.5, 1.5);
+}
+
+#box3 {
+  -webkit-transform:rotate(-50deg);
+  -ms-transform:rotate(-50deg);
+  -moz-transform:rotate(-50deg);
+  -o-transform:rotate(-50deg);
+  transform:rotate(-50deg);
+}
+
+#box4 {
+  -webkit-transform:skew(10deg, 10deg);
+  -ms-transform:skew(10deg, 10deg);
+  -moz-transform:skew(10deg, 10deg);
+  -o-transform:skew(10deg, 10deg);
+  transform:skew(10deg, 10deg);
+}
+
+#box5 {
+  -webkit-transform:skew(10deg, 10deg) rotate(-50deg);
+  -ms-transform:skew(10deg, 10deg) rotate(-50deg);
+  -moz-transform:skew(10deg, 10deg) rotate(-50deg);
+  -o-transform:skew(10deg, 10deg) rotate(-50deg);
+  transform:skew(10deg, 10deg) rotate(-50deg);
+}
