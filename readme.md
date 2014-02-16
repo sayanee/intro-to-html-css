@@ -32,4 +32,7 @@ All images were taken from the [Wikimedia Commons](http://commons.wikimedia.org/
 - [Internet PNG](http://en.wikipedia.org/wiki/File:Internet_map_1024_-_transparent.png)
 - [Earth GIF](http://en.wikipedia.org/wiki/File:Rotating_earth_(large).gif)
 
-Paragraph extract taken from [Here's to the Crazy Ones](http://en.wikipedia.org/wiki/Think_Different#Text)
+Paragraph extracts are taken from
+
+- [Here's to the Crazy Ones](http://en.wikipedia.org/wiki/Think_Different#Text)
+- [Alice in Wonderland](http://www.gutenberg.org/ebooks/11)

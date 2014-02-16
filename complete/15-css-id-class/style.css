@@ -1,0 +1,23 @@
+#sweet {
+  color: red;
+}
+
+.sour {
+  color: olive;
+}
+
+#salty {
+  background-color: #09F;
+}
+
+.lovely {
+  border: 10px solid green;
+}
+
+p#sleepy {
+  background-color: gray;
+}
+
+h3.energy {
+  background-color: yellow;
+}
