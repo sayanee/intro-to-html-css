@@ -1,0 +1,9 @@
+#header, .article, #footer{
+  clear:both;
+  width:100%;
+  margin:20px auto;
+  border-color: #000;
+  border-width: 1px;
+  border-style: solid;
+  background-color: #DD5267;
+}

@@ -22,6 +22,7 @@ List of starting and completed exercises for any beginners getting into html, cs
 1. **css box model**
 1. **css page layout**
 1. **css position** with absolute, fixed and relative
+1. **semantic tags** such as `header`, `footer`, `article`
 
 ##general resources
 
