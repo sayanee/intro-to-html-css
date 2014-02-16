@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>3 - images</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>An Image from my project folder</h1>
+<img src="img/pic.jpg">
+
+<h1>An Image from another website</h1>
+<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Internet_map_1024_-_transparent.png/240px-Internet_map_1024_-_transparent.png">
+
+<h1>An Image with the correct height and width attributes.</h1>
+<img src="img/pic.jpg" width=200 height=150>
+
+<h1>What happens if I amend BOTH height and width?</h1>
+<img src="img/pic.jpg" width=400 height=100>
+
+<h1>What happens if I only put the width?</h1>
+<img src="img/pic.jpg" width=400>
+
+<h1>What happens if I only put the height?</h1>
+<img src="img/pic.jpg" height=350>
+
+<h1>DO NOT scale an Image!</h1>
+<img src="img/pic.jpg" width=100>
+
+<h1>An Image with incorrect file name and file path</h1>
+<img src="p.jpg">
+
+<h1>An Image with the correct height and width attributes, but incorrect name</h1>
+<img src="img/p.jpg" width=200 height=150>
+
+<h1>An Image with a hover text</h1>
+<img src="img/pic.jpg" width=200 height=150 title="Austria">
+
+<h1>An Image with an alternative text, but incorrect name</h1>
+<img src="img/p.jpg" width=200 height=150 title="Austria" alt="austria">
+
+<h1>Different image formats</h1>
+<p>For normal web images, use *.jpg</p>
+<img src="img/pic.jpg">
+
+<p>For transparent web images, use *.png</p>
+<img src="img/internet.png">
+
+<p>For animated web images, use *.gif</p>
+<img src="img/earth.gif">
+
+<h1>Resources:</h1>
+<ul>
+  <li><a href="http://www.w3.org/TR/REC-html40/struct/objects.html#edef-IMG">Image tag</a></li>
+  <li><a href="http://developer.yahoo.com/performance/rules.html#no_scale">do not scale images</a> and <a href="http://stackoverflow.com/questions/9312584/whats-the-rationale-behind-the-yslow-rule-dont-scale-images-in-html">why</a></li>
+</ul>
+
+<h1>Credits:</h1>
+<ul>
+  <li><a href="http://en.wikipedia.org/wiki/File:Rotating_earth_(large).gif">gif image from Wikimedia Commons</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/File:Internet_map_1024_-_transparent.png">png Internet image from Wikimedia Commons</a></li>
+</ul>
+
+</body>
+</html>
