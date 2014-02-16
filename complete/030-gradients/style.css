@@ -1,0 +1,21 @@
+/* for speed, only webkit vendor prefixes are used */
+
+#box1{
+  background: -webkit-linear-gradient(top, #2F2727, #1a82f7);
+}
+
+#box2{
+  background: -webkit-linear-gradient(left, #2F2727, #1a82f7);
+}
+
+#box3{
+  background: -webkit-linear-gradient(left, #2F2727, #1a82f7, #2F2727, #1a82f7, #2F2727);
+}
+
+#box4{
+  background: -webkit-linear-gradient(left, #2F2727, #1a82f7 5%, #2F2727, #1a82f7 95%, #2F2727);
+}
+
+#box5{
+  background: -webkit-radial-gradient(circle, #1a82f7, #2F2727);
+}
