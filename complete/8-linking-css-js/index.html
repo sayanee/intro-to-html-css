@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>8 - linking css and js</title>
+
+  <!-- uncomment one by one at a time -->
+
+  <!--#1 CSS: Embedded Styles-->
+  <!--<style>
+    body { background: yellow; }
+  </style>-->
+
+  <!--#2 CSS: Link to an external stylesheet-->
+  <!-- <link rel="stylesheet" href="style.css"> -->
+
+  <!--#3 CSS: Link to an external stylesheet from an external project. E.g. Boostrap CSS-->
+  <!-- <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css"> -->
+
+</head>
+<body>
+
+<h1>Resources for adding CSS and Javascript to your html document:</h1>
+<ul>
+  <li><a href="https://developers.google.com/speed/libraries/devguide">Google CDN</a></li>
+  <li><a href="http://cdnjs.com/">CDN JS</a></li>
+  <li><a href="http://developer.yahoo.com/performance/rules.html#css_top">put stylesheets at the top</a></li>
+  <li><a href="http://developer.yahoo.com/performance/rules.html#js_bottom">put scripts at the bottom</a></li>
+  <li><a href="http://www.bootstrapcdn.com/">external css from bootstrap css</a></li>
+  <li><a href="http://www.sitepoint.com/7-reasons-to-use-a-cdn/">why use a CDN</a></li>
+  <li><a href="http://www.paulirish.com/2010/the-protocol-relative-url/">protocoal relative url</a> that you see in cdn links</li>
+</ul>
+
+<!--#1 Javascript: Embedded Script-->
+<script>
+// alert('hello from embedded JS!');
+</script>
+
+<!--#2 Javascript: Link to an external javascript file-->
+<!-- <script src="script.js"></script> -->
+
+<!--#3 Javascript: Link to an external script from an external project. E.g. JQuery-->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+<script>
+  alert($.fn.jquery);
+</script>
+
+</body>
+</html>
