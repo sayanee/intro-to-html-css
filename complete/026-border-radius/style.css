@@ -1,0 +1,35 @@
+#box {
+  -webkit-border-radius:10px;
+  -o-border-radius:10px;
+  -moz-border-radius:10px;
+  -ms-border-radius:10px;
+  border-radius:10px;
+}
+
+#circle {
+  -webkit-border-radius:50%;
+  -o-border-radius:50%;
+  -moz-border-radius:50%;
+  -ms-border-radius:50%;
+  border-radius:50%;
+}
+
+#curved {
+  -webkit-border-radius:50px/20px;
+  -o-border-radius:50px/20px;
+  -moz-border-radius:50px/20px;
+  -ms-border-radius:50px/20px;
+  border-radius:50px/20px;
+}
+
+#flag {
+  border-radius: 0 50px 50px 0;
+}
+
+#trapezium {
+  border-radius: 40px 10px;
+}
+
+#oval {
+  border-radius:50%;
+}
