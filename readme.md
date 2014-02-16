@@ -23,6 +23,7 @@ List of starting and completed exercises for any beginners getting into html, cs
 1. **css page layout**
 1. **css position** with absolute, fixed and relative
 1. **semantic tags** such as `header`, `footer`, `article`
+1. **audio**
 
 ##general resources
 
@@ -32,12 +33,8 @@ List of starting and completed exercises for any beginners getting into html, cs
 
 ##credits
 
-All images were taken from the [Wikimedia Commons](http://commons.wikimedia.org/wiki/Main_Page):
-
-- [Internet PNG](http://en.wikipedia.org/wiki/File:Internet_map_1024_-_transparent.png)
-- [Earth GIF](http://en.wikipedia.org/wiki/File:Rotating_earth_(large).gif)
-
-Paragraph extracts are taken from
-
-- [Here's to the Crazy Ones](http://en.wikipedia.org/wiki/Think_Different#Text)
-- [Alice in Wonderland](http://www.gutenberg.org/ebooks/11)
+- image: [Internet PNG](http://en.wikipedia.org/wiki/File:Internet_map_1024_-_transparent.png) from Wikimedia Commons
+- image: [Earth GIF](http://en.wikipedia.org/wiki/File:Rotating_earth_(large).gif) from Wikimedia Commons
+- paragraph: [Here's to the Crazy Ones](http://en.wikipedia.org/wiki/Think_Different#Text)
+- paragraph: [Alice in Wonderland](http://www.gutenberg.org/ebooks/11)
+- audio mp3: [Annual New England Xylophone Symposium](http://ccmixter.org/files/DoKashiteru/19848)
