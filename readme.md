@@ -31,6 +31,7 @@ List of starting and completed exercises for any beginners getting into html, cs
 1. **vendor prefixes** for IE, Opera, Chrome, Safari
 1. **border radius**
 1. **text shadow**
+1. **box shadow**
 
 ##general resources
 
