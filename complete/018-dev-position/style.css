@@ -1,0 +1,36 @@
+.wrapper {
+  height: 1000px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.big-box{
+  height: 300px;
+  width: 90%;
+  background-color: #ddd;
+  margin: 0 auto;
+
+  /* 3. Absolute position in relation to the parent div */
+  /*position: relative;*/
+}
+
+.little-box {
+  height: 30px;
+  width: 30px;
+  background-color: red;
+
+  /* 1. Absolute position in relation to the entire page */
+  /*position: absolute;
+  top: 100px;
+  left: 100px;*/
+
+  /* 2. Fixed position, no scrolling in relation to the entire page */
+  /*position: fixed;
+  top: 100px;
+  left: 100px;*/
+
+  /* 3. Absolute position in relation to the parent div */
+  /*position: absolute;
+  top: 100px;
+  left: 100px;*/
+}

@@ -21,6 +21,7 @@ List of starting and completed exercises for any beginners getting into html, cs
 1. **css for id & class**
 1. **css box model**
 1. **css page layout**
+1. **css position** with absolute, fixed and relative
 
 ##general resources
 
