@@ -10,6 +10,7 @@ List of starting and completed exercises for any beginners getting into html, cs
 1. hyperlink tag `a` with attributes `href`, `name` with relative/absolute hyperlinks
 1. list tag `ul`,`ol` and `li` with ordered/unordered and nested list
 1. table tag `table` with `tr`, `td` and attributes such as `cellpadding`, `cellspacing`, `colspan`, `rowspan`, `border`
+1. form tags `form` with `input`, `label`, `select`, `option`, `textarea` and attributes such as `name`, `type`, `value`
 
 ##general resources
 
