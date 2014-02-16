@@ -20,6 +20,7 @@ List of starting and completed exercises for any beginners getting into html, cs
 1. **css selectors** such as `* {}`, `E {}`, `E F {}`, `E > F {}`
 1. **css for id & class**
 1. **css box model**
+1. **css page layout**
 
 ##general resources
 
