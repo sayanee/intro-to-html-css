@@ -1,0 +1,37 @@
+* {
+  color: green;
+}
+
+h1 {
+  color: red;
+}
+
+table {
+  color: green;
+  font-family: Arial, "MS Trebuchet", sans-serif;
+}
+
+img {
+  border: 3px solid #999;
+}
+
+p, img {
+  border: 3px dashed red;
+}
+
+p span {
+  color: blue;
+  text-decoration: line-through;
+}
+
+p img {
+  border: 3px dashed red;
+}
+
+ul > li {
+  color: red;
+}
+
+ul > li > ul > li {
+  color: green;
+}

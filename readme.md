@@ -17,6 +17,7 @@ List of starting and completed exercises for any beginners getting into html, cs
 1. **css background** with properties such as `background-color`, `background-image`, `background-attachment`, `background-position`, `background-repeat` and shorthand `background`
 1. **css border** with properties `border` (shorthand), `border-width`, `border-style`, `border-color`, `border-left`, `border-right`, etc
 1. **css form** by styling `textarea:focus`, `input[type=text]`, etc
+1. **css selectors** such as `* {}`, `E {}`, `E F {}`, `E > F {}`
 
 ##general resources
 
@@ -26,4 +27,9 @@ List of starting and completed exercises for any beginners getting into html, cs
 
 ##credits
 
-All images were taken from the [Wikimedia Commons](http://commons.wikimedia.org/wiki/Main_Page).
+All images were taken from the [Wikimedia Commons](http://commons.wikimedia.org/wiki/Main_Page):
+
+- [Internet PNG](http://en.wikipedia.org/wiki/File:Internet_map_1024_-_transparent.png)
+- [Earth GIF](http://en.wikipedia.org/wiki/File:Rotating_earth_(large).gif)
+
+Paragraph extract taken from [Here's to the Crazy Ones](http://en.wikipedia.org/wiki/Think_Different#Text)
