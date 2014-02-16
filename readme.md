@@ -13,6 +13,7 @@ List of starting and completed exercises for any beginners getting into html, cs
 1. form tags `form` with `input`, `label`, `select`, `option`, `textarea` and attributes such as `name`, `type`, `value`
 1. linking css and js code and files with `link`, `style`, `script`
 1. css text properties such as `font-family`, `font-size`, `color`, `font-style`, `font-weight`, `text-align`, `background-color`, `line-height`, `word-spacing`, `letter-spacing` and `font` (shorthand)
+1. css styles for hyperlinks with properties such as `text-decoration` for tags and pseudo classes `:link`, `:visited`, `:hover` and `:active`
 
 ##general resources
 

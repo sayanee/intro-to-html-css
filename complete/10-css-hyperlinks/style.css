@@ -1,0 +1,20 @@
+a {
+  color:white;
+  text-decoration:none;
+}
+
+a:link {
+  background-color: green;
+}
+
+a:visited {
+  background-color: grey;
+}
+
+a:active {
+  text-decoration: line-through;
+}
+
+a:hover {
+  text-decoration: underline;
+}
