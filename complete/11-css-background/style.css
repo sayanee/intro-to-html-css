@@ -1,0 +1,10 @@
+body {
+  background-color: #ddd;
+  background-image: url('internet.png');
+  background-attachment: fixed;
+  background-position: top center;
+  background-repeat: no-repeat;
+
+  /* shorthand for the above */
+  /* background: transparent url('internet.png') repeat-x scroll ; */
+}

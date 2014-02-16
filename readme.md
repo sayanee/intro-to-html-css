@@ -1,6 +1,6 @@
 #intro to html & css
 
-List of starting and completed exercises for any beginners getting into html, css and simple javascript.
+List of starting and completed exercises for any beginners getting into html, css and simple javascript. These exercises are designed to be taught in small groups accompanied by an instructor for guidance and discussion.
 
 ##lessons
 
@@ -14,6 +14,7 @@ List of starting and completed exercises for any beginners getting into html, cs
 1. linking css and js code and files with `link`, `style`, `script`
 1. css text properties such as `font-family`, `font-size`, `color`, `font-style`, `font-weight`, `text-align`, `background-color`, `line-height`, `word-spacing`, `letter-spacing` and `font` (shorthand)
 1. css styles for hyperlinks with properties such as `text-decoration` for tags and pseudo classes `:link`, `:visited`, `:hover` and `:active`
+1. css background with properties such as `background-color`, `background-image`, `background-attachment`, `background-position`, `background-repeat` and shorthand `background`
 
 ##general resources
 
