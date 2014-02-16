@@ -1,0 +1,21 @@
+h1 {
+  text-shadow: 2px 2px 3px #863027;
+}
+
+h2{
+  color:#cccccc;
+  text-shadow: 0px -1px 1px #000;
+}
+
+h3{
+  text-shadow:  .01em .01em 0 #863027,
+                .02em .02em 0 #863027,
+                .03em .03em 0 #863027,
+                .04em .04em 0 #863027,
+                .05em .05em 0 #863027,
+                .06em .06em 0 #863027,
+                .07em .07em 0 #863027,
+                .08em .08em 0 #863027,
+                .09em .09em 0 #863027,
+                .1em .1em 0 #863027;
+}
