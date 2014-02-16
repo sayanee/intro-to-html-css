@@ -1,0 +1,27 @@
+h1, h2 {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 16px;
+  color: red;
+  font-style: italic;
+  font-variant: normal;
+  font-weight: lighter;
+  text-align: center;
+}
+
+
+h3, h4, h5, h6{
+  font: italic small-caps bold 2em "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+}
+
+h2 {
+  font-family: Monaco, "Lucida Console", monospace;
+  font-style: normal;
+}
+
+
+p{
+  background-color: #CC9;
+  line-height: 50px;
+  letter-spacing: 3em;
+  word-spacing: 2em;
+}
