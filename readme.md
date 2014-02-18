@@ -2,6 +2,13 @@
 
 List of starting and completed exercises for any beginners getting into html, css and simple javascript. These exercises are designed to be taught in small groups accompanied by an instructor for guidance and discussion.
 
+The lesson numbers are in the seqeuntial order of difficulty and builds on the knowledge of previous lessons.
+
+##suggested tools
+
+1. plain text editor e.g. [Sublime Text](http://www.sublimetext.com/3)
+1. browser e.g. [Chrome](https://www.google.com/intl/en/chrome/browser/) with [DevTools](https://developers.google.com/chrome-developer-tools/)
+
 ##lessons
 
 1. **text** tags such as `h1`, `h2`, `h3`, `h4`, `h5`, `h6`, `p`, `code`, `blockquote`, `span`
@@ -37,8 +44,17 @@ List of starting and completed exercises for any beginners getting into html, cs
 1. **transform** for translate, scale, rotate, skew
 1. **transition** with `webkit-transition-property`, `-webkit-transition-duration`, `-webkit-transition-timing-function`, `-webkit-transition-deplay`
 1. **animation** with `@keyframes`, `-webkit-animation-name`, `-webkit-animation-duration`, `-webkit-animation-iteration-count`, `-webkit-animation-timing-function`, `-webkit-animation-delay`, `-webkit-animation-direction`
-1. **css3 selectors** with `nth-child(n)` and `nth-of-type(n)`
-1. **media queries** for responsive design
+
+##suggested timing
+
+- lesson 1 - 4 [4 hours]
+- lesson 5 - 8 [4 hours]
+- lesson 9 - 12 [4 hours]
+- lesson 13 - 18 [4 hours]
+- lesson 19 - 24 [4 hours]
+- lesson 25 - 29 [4 hours]
+- lesson 30 - 33 [4 hours]
+
 
 ##general resources
 
