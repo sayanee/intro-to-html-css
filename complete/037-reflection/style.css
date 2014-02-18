@@ -1,0 +1,11 @@
+.box1 img{
+  -webkit-box-reflect: above; /* try above | left | right */
+}
+
+.box2 img{
+  -webkit-box-reflect: above 20px; /* try above | left | right */
+}
+
+.box3 img{
+  -webkit-box-reflect: below 10px -webkit-gradient(linear, left top, left bottom, from(transparent), to(white));
+}
