@@ -48,6 +48,7 @@ The lesson numbers are in the seqeuntial order of difficulty and builds on the k
 1. **media queries** for responsive design
 1. **html5 forms** with input type as email, url, number, tel as well as attributes like require, min, max
 1. **css3 reflection** with `box-reflect` 
+1. **simple jquery integration** with [FittextJS](http://fittextjs.com/)
 
 ##suggested timing
 
@@ -58,6 +59,7 @@ The lesson numbers are in the seqeuntial order of difficulty and builds on the k
 - lesson 19 - 24 [4 hours]
 - lesson 25 - 29 [4 hours]
 - lesson 30 - 33 [4 hours]
+- lesson 34 - 38 [4 hours]
 
 
 ##general resources
@@ -75,6 +77,7 @@ The lesson numbers are in the seqeuntial order of difficulty and builds on the k
 - audio mp3: [Annual New England Xylophone Symposium](http://ccmixter.org/files/DoKashiteru/19848)
 - fonts: [Raleway](https://www.theleagueofmoveabletype.com/raleway) and [Orbitron](https://www.theleagueofmoveabletype.com/orbitron)
 - background graph paper: [Subtle Patterns Graphy](http://subtlepatterns.com/graphy/) was used to see the changes in element positions after transition/transform, etc
+- [jQuery](http://jquery.com/) and jQuery library [FittextJS](http://fittextjs.com/)
 
 ##license
 
