@@ -1,0 +1,7 @@
+p:nth-child(2){
+  color:red;
+}
+
+img:nth-of-type(2){
+  border: 5px solid #2C9938;
+}

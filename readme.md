@@ -35,8 +35,8 @@ List of starting and completed exercises for any beginners getting into html, cs
 1. **text selection** to change the text color and/or background when selecting text
 1. **gradients** for linear gradient with stops and radial gradient
 1. **transform** for translate, scale, rotate, skew
-1. **transition**
-1. **animation**
+1. **transition** with `webkit-transition-property`, `-webkit-transition-duration`, `-webkit-transition-timing-function`, `-webkit-transition-deplay`
+1. **animation** with `@keyframes`, `-webkit-animation-name`, `-webkit-animation-duration`, `-webkit-animation-iteration-count`, `-webkit-animation-timing-function`, `-webkit-animation-delay`, `-webkit-animation-direction`
 
 ##general resources
 
