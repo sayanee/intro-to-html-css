@@ -120,7 +120,7 @@ Suggested reading: [How to ask questions the Smart Way](http://www.catb.org/~esr
 - background graph paper: [Subtle Patterns Graphy](http://subtlepatterns.com/graphy/) was used to see the changes in element positions after transition/transform, etc
 - [jQuery](http://jquery.com/) and jQuery library [FittextJS](http://fittextjs.com/)
 - social icons: [crystal clear bubble](http://webtreats.mysitemyway.com/154-crystal-clear-bubble-social-media-icons/)
-- icon fonts from icomoon
+- icon fonts from [icomoon](http://icomoon.io/app/#/select)
 
 ##license
 
