@@ -62,6 +62,31 @@ The lesson numbers are in the seqeuntial order of difficulty and builds on the k
 - lesson 30 - 33 [4 hours]
 - lesson 34 - 38 [4 hours]
 
+##suggested steps for instructors
+
+1. take one lesson at a time
+1. explain the theory with links to [W3C](http://www.w3.org/) or [MDN](https://developer.mozilla.org/en-US/)
+1. show examples with the links listed in each lesson under **Resources** at the bottom of each `*.html` file as an inspiration
+1. live code as a demo taking from **start** to **complete** code examples
+1. walk around to assist the class participants when they also try to implement the steps from **start** to **complete**
+
+##suggested steps for participants post-class
+
+When things don't work, following these steps sequentally in this order: 
+
+1. inspect element in the browser dev tools
+1. if step 1 does not work: 
+	- re-check syntax with documentation in [MDN](https://developer.mozilla.org/en-US/) or [W3c](http://www.w3.org/)
+	- get to the errors in text editor / browser dev tools
+	- check all file paths 
+	- check all relevant versions of the library used (if any)
+1. if step 2 does not work, google the question (set search option to "Past Year")
+1. if step 3 does not work, make a module of the error code in [JSfiddle](http://jsfiddle.net/) with only the code needed (remove other feature code)
+1. if step 4 does not work, post question in [stackoverflow](http://stackoverflow.com/) with JSfiddle link in step 4 and complete error messages
+1. if step 5 does not work, email someone with the links to the stackoverflow and jsfiddle
+1. if step 6 does not work, request someone to pair with you on the error 
+
+Suggested reading: [How to ask questions the Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html#asking) and [SSCCE](http://www.sscce.org/)
 
 ##general resources
 
