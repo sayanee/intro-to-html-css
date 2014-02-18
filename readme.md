@@ -51,17 +51,23 @@ The lesson numbers are in the seqeuntial order of difficulty and builds on the k
 1. **simple jquery integration** with [FittextJS](http://fittextjs.com/)
 1. **css sprite** to load only one image instead of many images
 1. **generated content** with `:after` and `:before`
+1. **responsive layout** convert a fixed header, footer, sidebar layout to a fully flexible responsive layout fmor desktop to one-column mobile
 
-##suggested timing
+##suggested schedule
 
-- lesson 1 - 4 [4 hours]
-- lesson 5 - 8 [4 hours]
-- lesson 9 - 12 [4 hours]
-- lesson 13 - 18 [4 hours]
-- lesson 19 - 24 [4 hours]
-- lesson 25 - 29 [4 hours]
-- lesson 30 - 33 [4 hours]
-- lesson 34 - 38 [4 hours]
+1. lesson 1 - 4 [4 hours]
+1. lesson 5 - 8 [4 hours]
+1. lesson 9 - 12 [4 hours]
+1. lesson 13 - 18 [4 hours]
+
+gap of few weeks for participants to practise on work/side projects
+
+1. lesson 19 - 24 [4 hours]
+1. lesson 25 - 29 [4 hours]
+1. lesson 30 - 33 [4 hours]
+1. lesson 34 - 38 [4 hours]
+
+gap of few weeks for participants to practise on work/side projects
 
 ##suggested steps for instructors
 
