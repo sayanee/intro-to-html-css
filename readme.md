@@ -50,6 +50,7 @@ The lesson numbers are in the seqeuntial order of difficulty and builds on the k
 1. **css3 reflection** with `box-reflect` 
 1. **simple jquery integration** with [FittextJS](http://fittextjs.com/)
 1. **css sprite** to load only one image instead of many images
+1. **generated content** with `:after` and `:before`
 
 ##suggested timing
 

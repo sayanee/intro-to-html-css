@@ -1,0 +1,15 @@
+.container {
+  width: 800px;
+  margin: 60px auto 100px auto;
+}
+
+h1 {
+  margin: 60px 0 20px 0;
+}
+
+h6 {
+  font-family: 'Monsieur La Doulaise', cursive;
+  text-align: center;
+  font-size: 5em;
+  color: olive;
+}
