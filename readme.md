@@ -49,6 +49,7 @@ The lesson numbers are in the seqeuntial order of difficulty and builds on the k
 1. **html5 forms** with input type as email, url, number, tel as well as attributes like require, min, max
 1. **css3 reflection** with `box-reflect` 
 1. **simple jquery integration** with [FittextJS](http://fittextjs.com/)
+1. **css sprite** to load only one image instead of many images
 
 ##suggested timing
 
@@ -78,6 +79,7 @@ The lesson numbers are in the seqeuntial order of difficulty and builds on the k
 - fonts: [Raleway](https://www.theleagueofmoveabletype.com/raleway) and [Orbitron](https://www.theleagueofmoveabletype.com/orbitron)
 - background graph paper: [Subtle Patterns Graphy](http://subtlepatterns.com/graphy/) was used to see the changes in element positions after transition/transform, etc
 - [jQuery](http://jquery.com/) and jQuery library [FittextJS](http://fittextjs.com/)
+- social icons: [crystal clear bubble](http://webtreats.mysitemyway.com/154-crystal-clear-bubble-social-media-icons/)
 
 ##license
 

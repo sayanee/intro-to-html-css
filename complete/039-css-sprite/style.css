@@ -1,0 +1,76 @@
+.container{
+	width: 580px;
+	margin: 0 auto 60px auto;
+}
+
+.social{
+	display: block;
+	list-style-type: none;
+	padding: 0;
+}
+
+h1{
+	text-align: center;
+	font-size: 4em;
+	margin: 30px 0;
+}
+
+.social li{
+	display: inline-block;
+	margin: 20px
+}
+
+.social li a{
+	width: 100px;
+	height: 100px;
+	display: block;
+	text-indent: -9999px;
+}
+
+.social li:nth-child(1) a:link{
+	background: url('img/i.jpg') no-repeat 0 0;
+	width: 100px;
+	height: 100px;
+}
+
+.social li:nth-child(1) a:link:hover{
+	background: url('img/i.jpg') no-repeat 0 -99px;
+	width: 100px;
+	height: 100px;
+}
+
+.social li:nth-child(2) a:link{
+	background: url('img/i.jpg') no-repeat -100px 0;
+	width: 100px;
+	height: 100px;
+}
+
+.social li:nth-child(2) a:link:hover{
+	background: url('img/i.jpg') no-repeat -100px -99px;
+	width: 100px;
+	height: 100px;
+}
+
+.social li:nth-child(3) a:link{
+	background: url('img/i.jpg') no-repeat -200px 0;
+	width: 100px;
+	height: 100px;
+}
+
+.social li:nth-child(3) a:link:hover{
+	background: url('img/i.jpg') no-repeat -200px -99px;
+	width: 100px;
+	height: 100px;
+}
+
+.social li:nth-child(4) a:link{
+	background: url('img/i.jpg') no-repeat -300px 0;
+	width: 100px;
+	height: 100px;
+}
+
+.social li:nth-child(4) a:link:hover{
+	background: url('img/i.jpg') no-repeat -300px -99px;
+	width: 100px;
+	height: 100px;
+}
