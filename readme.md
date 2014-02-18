@@ -36,6 +36,7 @@ List of starting and completed exercises for any beginners getting into html, cs
 1. **gradients** for linear gradient with stops and radial gradient
 1. **transform** for translate, scale, rotate, skew
 1. **transition**
+1. **animation**
 
 ##general resources
 
