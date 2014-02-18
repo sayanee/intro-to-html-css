@@ -1,0 +1,12 @@
+#wrapper{
+  margin: 0 auto;
+  width: 960px;
+}
+
+#box{
+  width: 960px;
+  height: 150px;
+  display: block;
+  margin: 50px 0;
+  background-color: #DDAE6B;
+}
