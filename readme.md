@@ -53,6 +53,10 @@ The lesson numbers are in the seqeuntial order of difficulty and builds on the k
 1. **generated content** with `:after` and `:before`
 1. **responsive layout** convert a fixed header, footer, sidebar layout to a fully flexible responsive layout fmor desktop to one-column mobile
 1. **css pre-processor** to code css in [SCSS](http://sass-lang.com/) with variables, mixing, nesting and compile it to minified CSS with [Scout App](http://mhs.github.io/scout-app/) or [SASS Rubygem](https://rubygems.org/gems/sass)
+1. **icon fonts** and generating them from [icomoon](http://icomoon.io/app/)
+1. **simple devtools** using [chrome dev tools](https://developers.google.com/chrome-developer-tools/) 
+1. **static page boilerplate** with [html5 boilerplate](http://html5boilerplate.com/)
+1. **styling framework** with [twitter boostrap](http://getbootstrap.com/)
 
 ##suggested schedule
 
@@ -69,6 +73,9 @@ gap of few weeks for participants to practise on work/side projects
 1. lesson 34 - 38 [4 hours]
 
 gap of few weeks for participants to practise on work/side projects
+
+1. lesson 39 - 42 [4 hours]
+1. lesson 43 - 46 [4 hours]
 
 ##suggested steps for instructors
 
@@ -113,6 +120,7 @@ Suggested reading: [How to ask questions the Smart Way](http://www.catb.org/~esr
 - background graph paper: [Subtle Patterns Graphy](http://subtlepatterns.com/graphy/) was used to see the changes in element positions after transition/transform, etc
 - [jQuery](http://jquery.com/) and jQuery library [FittextJS](http://fittextjs.com/)
 - social icons: [crystal clear bubble](http://webtreats.mysitemyway.com/154-crystal-clear-bubble-social-media-icons/)
+- icon fonts from icomoon
 
 ##license
 
