@@ -52,6 +52,7 @@ The lesson numbers are in the seqeuntial order of difficulty and builds on the k
 1. **css sprite** to load only one image instead of many images
 1. **generated content** with `:after` and `:before`
 1. **responsive layout** convert a fixed header, footer, sidebar layout to a fully flexible responsive layout fmor desktop to one-column mobile
+1. **css pre-processor** to code css in [SCSS](http://sass-lang.com/) with variables, mixing, nesting and compile it to minified CSS with [Scout App](http://mhs.github.io/scout-app/) or [SASS Rubygem](https://rubygems.org/gems/sass)
 
 ##suggested schedule
 

@@ -1,0 +1,136 @@
+// Lab 1: Lesson 5 - CSS Preprocessor with SCSS and Compass - style.scss
+
+//libraries
+@import "compass";
+
+//variables - color
+$base-color: #444;
+$secondary-color: lighten($base-color, 45%);
+$white: #fff;
+$seagreen: #55AFB9;
+
+//variables - lengths
+$spread: 2px;
+$curved-corner: 4px;
+
+@mixin spacing(){
+  padding: 20px;
+  margin: 0 0 30px 0;
+}
+
+@mixin alignment(){
+  display: inline-block;
+  vertical-align: top;
+}
+
+// layout
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-transition: all .2s ease-out;
+}
+
+body{
+  color: $base-color;
+}
+
+.container{
+  margin: 0 auto;
+  width: 960px;
+}
+
+// typography
+h1 {
+  text-align: center;
+  font: 95px "Impact";
+  display: block;
+  text-shadow: lighten($base-color, 50%) -1px 1px 0,
+    $base-color -2px 2px 0,
+    $base-color -3px 3px 0,
+    $base-color -4px 4px 0;
+}
+
+h1, h2, p{
+  margin: 0 0 10px 0;
+}
+
+a{
+  &:link, &:visited{
+    text-decoration: none;
+    background-color: $secondary-color;
+    color: $base-color;
+  }
+  &:hover, &:active{
+    background-color: $seagreen;
+  }
+}
+
+img{
+  max-width:100%;
+  display: block;
+  margin: 10px auto 0 auto;
+}
+
+// menu
+menu li{
+  @include spacing();
+  list-style-type: none;
+  @include box-shadow($secondary-color, 0, 0, $spread, $spread);
+  @include border-radius($curved-corner);
+}
+
+// main article section
+article{
+  width:70%;
+  @include alignment();
+  @include spacing();
+  margin-right: 2%;
+  @include box-shadow($secondary-color, 0, 0, $spread, $spread);
+  @include border-radius($curved-corner);
+}
+
+// sidebar
+aside{
+  width: 27.5%;
+  @include alignment();
+  @include spacing();
+  @include box-shadow($secondary-color, 0, 0, $spread, $spread);
+  @include border-radius($curved-corner);
+}
+
+// footer
+footer{
+  clear:both;
+  width:100%;
+  text-align:center;
+  @include spacing();
+  @include box-shadow($secondary-color, 0, 0, $spread, $spread);
+  @include border-radius($curved-corner);
+}
+
+// Desktop 1200px
+@media screen and (max-width: 1200px){
+  menu li:first-child{background: $seagreen;}
+}
+
+// iPad Landscape 1024px
+@media screen and (max-width: 1024px){
+  .container{width: 96%;}
+  menu li:nth-child(2){background: $seagreen;}
+  menu li:first-child{background: $white;}
+  article{width:100%;}
+  aside{width:100%;}
+}
+
+// iPad Portrait 768px
+@media screen and (max-width: 768px){
+  menu li:nth-child(3){background:$seagreen;}
+  menu li:nth-child(2){background:$white;}
+}
+
+// iPhone  600px
+@media screen and (max-width: 600px){
+  menu li:nth-child(4){background:$seagreen;}
+  menu li:nth-child(3){background:$white;}
+}
