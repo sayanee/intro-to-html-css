@@ -44,6 +44,9 @@ The lesson numbers are in the seqeuntial order of difficulty and builds on the k
 1. **transform** for translate, scale, rotate, skew
 1. **transition** with `webkit-transition-property`, `-webkit-transition-duration`, `-webkit-transition-timing-function`, `-webkit-transition-deplay`
 1. **animation** with `@keyframes`, `-webkit-animation-name`, `-webkit-animation-duration`, `-webkit-animation-iteration-count`, `-webkit-animation-timing-function`, `-webkit-animation-delay`, `-webkit-animation-direction`
+1. **css3 selectors** with `nth-child` and `nth-of-type`
+1. **media queries** for responsive design
+1. **html5 forms** with input type as email, url, number, tel as well as attributes like require, min, max 
 
 ##suggested timing
 
