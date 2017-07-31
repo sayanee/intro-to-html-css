@@ -1,15 +1,15 @@
-#intro to html & css
+# intro to html & css
 
 List of starting and completed exercises for any beginners getting into html, css and simple javascript. These exercises are designed to be taught in small groups accompanied by an instructor for guidance and discussion.
 
 The lesson numbers are in the seqeuntial order of difficulty and builds on the knowledge of previous lessons.
 
-##suggested tools
+## suggested tools
 
 1. plain text editor e.g. [Sublime Text](http://www.sublimetext.com/3)
 1. browser e.g. [Chrome](https://www.google.com/intl/en/chrome/browser/) with [DevTools](https://developers.google.com/chrome-developer-tools/)
 
-##lessons
+## lessons
 
 1. **text** tags such as `h1`, `h2`, `h3`, `h4`, `h5`, `h6`, `p`, `code`, `blockquote`, `span`
 1. text **formatting and lines** with tags `em`, `hr`, `br`, `strong`
@@ -58,7 +58,7 @@ The lesson numbers are in the seqeuntial order of difficulty and builds on the k
 1. **static page boilerplate** with [html5 boilerplate](http://html5boilerplate.com/)
 1. **styling framework** with [twitter boostrap](http://getbootstrap.com/)
 
-##suggested schedule
+## suggested schedule
 
 1. lesson 1 - 4 [4 hours]
 1. lesson 5 - 8 [4 hours]
@@ -77,7 +77,7 @@ gap of few weeks for participants to practise on work/side projects
 1. lesson 39 - 42 [4 hours]
 1. lesson 43 - 46 [4 hours]
 
-##suggested steps for instructors
+## suggested steps for instructors
 
 1. take one lesson at a time
 1. explain the theory with links to [W3C](http://www.w3.org/) or [MDN](https://developer.mozilla.org/en-US/)
@@ -85,7 +85,7 @@ gap of few weeks for participants to practise on work/side projects
 1. live code as a demo taking from **start** to **complete** code examples
 1. walk around to assist the class participants when they also try to implement the steps from **start** to **complete**
 
-##suggested steps for participants post-class
+## suggested steps for participants post-class
 
 When things don't work, following these steps sequentally in this order: 
 
@@ -109,7 +109,7 @@ Suggested reading: [How to ask questions the Smart Way](http://www.catb.org/~esr
 1. [MDN](https://developer.mozilla.org/en-US/)
 1. [web platform](http://www.webplatform.org/)
 
-##credits
+## credits
 
 - image: [Internet PNG](http://en.wikipedia.org/wiki/File:Internet_map_1024_-_transparent.png) from Wikimedia Commons
 - image: [Earth GIF](http://en.wikipedia.org/wiki/File:Rotating_earth_(large).gif) from Wikimedia Commons
@@ -122,6 +122,6 @@ Suggested reading: [How to ask questions the Smart Way](http://www.catb.org/~esr
 - social icons: [crystal clear bubble](http://webtreats.mysitemyway.com/154-crystal-clear-bubble-social-media-icons/)
 - icon fonts from [icomoon](http://icomoon.io/app/#/select)
 
-##license
+## license
 
 [Public domain dedication](http://creativecommons.org/publicdomain/zero/1.0/) - You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
